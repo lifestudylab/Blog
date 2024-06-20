@@ -16,7 +16,7 @@ DefaultContentLanguageInSubdir = false
       introSubtitle = "Seu Espaço de Conhecimento e Inspiração"
       introPhoto = "/picture.jpg"
       logo = "/logos/site_banner.jpg"
-      description = "Life Study Lab: Dicas financeiras, truques diários, novas ideias e curiosidades. Transforme sua vida com conhecimento prático e inspiração contínua."
+      description = "Life Study Lab: Dicas financeiras, truques diários, novas ideias e curiosidades. Transforme sua vida com conhecimento prático e inspiração contínua!"
       keywords = "Dicas financeiras, truques diários, ideias inovadoras, curiosidades, finanças pessoais, economia, eficiência, conhecimento prático"
       author = "Life Study Lab"
 
@@ -45,7 +45,7 @@ DefaultContentLanguageInSubdir = false
   category = "categories"
 
 [params]
-  # Enable the darkmode toggle in header
+    # Enable the darkmode toggle in header
   darkModeToggle = true
   
   # Enable search in header
@@ -199,3 +199,11 @@ DefaultContentLanguageInSubdir = false
 [services]
   [services.googleAnalytics]
     ID = 'G-K9TXEG9BJZ'
+
+
+[privacy]
+  [privacy.googleAnalytics]
+    disable = false
+    respectDoNotTrack = true
+    anonymizeIP = true
+    useSessionStorage = true
