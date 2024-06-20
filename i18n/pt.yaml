@@ -1,0 +1,98 @@
+# Content
+- id: postedOnDate
+  translation: "Postado em {{ . }}"
+- id: lastModified
+  translation: "(Modificado em {{ . }})"
+- id: translationsLabel
+  translation: "Outras línguas: "
+- id: translationsSeparator
+  translation: ", "
+- id: readMore
+  translation: "Leia mais"
+- id: morePosts
+  translation: "Mais posts"
+- id: olderPosts
+  translation: "Posts mais antigos"
+- id: newerPosts
+  translation: "Posts mais novos"
+- id: previousPost
+  translation: "Post anterior"
+- id: nextPost
+  translation: "Próximo Post"
+- id: readTime
+  translation: "minutos"
+- id: words
+  translation: "palavras"
+
+# Date
+- id: January
+  translation: "Janeiro"
+- id: February
+  translation: "Fevereiro"
+- id: March
+  translation: "Março"
+- id: April
+  translation: "Abril"
+- id: May
+  translation: "Maio"
+- id: June
+  translation: "Junho"
+- id: July
+  translation: "Julho"
+- id: August
+  translation: "Agosto"
+- id: September
+  translation: "Setembro"
+- id: October
+  translation: "Outubro"
+- id: November
+  translation: "Novembro"
+- id: December
+  translation: "Dezembro"
+
+
+# 404 page
+- id: pageNotFound
+  translation: "Opa! Essa página infelizmente não existe :( (404 error)"
+
+# Footer
+- id: poweredBy # Accepts HTML
+  translation: '<a href="https://gohugo.io">Hugo v{{ .Site.Hugo.Version }}</a> powered &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapted from <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>'
+
+# Navigation
+- id: toggleNavigation
+  translation: "Toggle navigation"
+- id: languageSwitcherLabel
+  translation: "Language"
+- id: gcseLabelShort
+  translation: "Search"
+- id: gcseLabelLong
+  translation: "Search {{ .Site.Title }}"
+- id: gcseClose
+  translation: "Close"
+
+# Staticman
+- id: noComment
+  translation: "Sem comentários"
+- id: oneComment
+  translation: "Comentário"
+- id: moreComment
+  translation: "Comentários"
+- id: useMarkdown
+  translation: "Você pode usar linguagem markdown"
+- id: yourName
+  translation: "Seu Nome"
+- id: yourEmail
+  translation: "Seu email"
+- id: yourWebsite
+  translation: "Seu site"
+
+# Delayed Disqus
+- id: show
+  translation: "Mostrar"
+- id: comments
+  translation: "Comentários" 
+
+# Related posts
+- id: seeAlso
+  translation: "Veja também"

@@ -5,7 +5,7 @@ metaDataFormat = "yaml"
 theme = "blist"
 
 DefaultContentLanguage = "pt"
-DefaultContentLanguageInSubdir = true
+DefaultContentLanguageInSubdir = false
 [languages]
   [languages.pt]
     contentDir = "content/pt" #Portuguese
