@@ -203,7 +203,7 @@ DefaultContentLanguageInSubdir = false
 
 [privacy]
   [privacy.googleAnalytics]
-    disable = false
-    respectDoNotTrack = true
-    anonymizeIP = true
-    useSessionStorage = true
+  disable = false
+  respectDoNotTrack = true
+  anonymizeIP = true
+  useSessionStorage = true
