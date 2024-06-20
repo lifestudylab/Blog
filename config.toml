@@ -1,38 +1,41 @@
 baseURL = "https://lifestudylab.github.io"
-languageCode = "pt"
+languageCode = "pt-br"
 title = "Life Study Lab"
 metaDataFormat = "yaml"
 theme = "blist"
 
-DefaultContentLanguage = "pt"
+DefaultContentLanguage = "pt-br"
 DefaultContentLanguageInSubdir = false
 [languages]
-  [languages.pt]
-    contentDir = "content/pt" #Portuguese
+  [languages.pt-br]
+    contentDir = "content/pt-br"
     weight = 1
-    languageName = "Portuguese"
-    [languages.pt.params]
+    languageName = "Brazilian Portuguese"
+    [languages.pt-br.params]
       introTitle = "Bem-vindo ao <b>Life Study Lab</b>"
       introSubtitle = "Seu Espaço de Conhecimento e Inspiração"
       introPhoto = "/picture.jpg"
       logo = "/logos/site_banner.jpg"
-      description= "Este é um blog"
-    [[languages.pt.menu.main]]
+      description = "Life Study Lab: Dicas financeiras, truques diários, novas ideias e curiosidades. Transforme sua vida com conhecimento prático e inspiração contínua."
+      keywords = "Dicas financeiras, truques diários, ideias inovadoras, curiosidades, finanças pessoais, economia, eficiência, conhecimento prático"
+      author = "Life Study Lab"
+
+    [[languages.pt-br.menu.main]]
         name = "Blog"
         url = "blog"
         weight = 1
 
-    [[languages.pt.menu.main]]
+    [[languages.pt-br.menu.main]]
         name = "Sobre"
         url = "page/sobre/"
         weight = 2
 
-    # [[languages.pt.menu.main]]
+    # [[languages.pt-br.menu.main]]
     #     name = "Tags"
     #     url = "tags"
     #     weight = 3
 
-    # [[languages.pt.menu.main]]
+    # [[languages.pt-br.menu.main]]
     #     name = "Posts"
     #     url = "/pt/blog/emoji-support/"
     #     weight = 4
@@ -92,7 +95,7 @@ DefaultContentLanguageInSubdir = false
   hidePageThumbnail = false
 
 # Comments system
-[params.comments]
+[params.comments.false]
   # Supports disqus, giscus and utterances
   # Check hugo docs for setting up disqus
   system = "giscus"
@@ -116,8 +119,8 @@ DefaultContentLanguageInSubdir = false
 
 [params.homepage.social]
   # Global params common for both languages
-  title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
+  title = "Siga-me"
+  description = "Fique ligado nas redes sociais"
   activated = false
 
   [[params.homepage.social.icons]]
