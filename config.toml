@@ -15,7 +15,8 @@ DefaultContentLanguageInSubdir = false
       introTitle = "Bem-vindo ao <b>Life Study Lab</b>"
       introSubtitle = "Seu Espaço de Conhecimento e Inspiração"
       introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
+      logo = "/logos/site_banner.jpg"
+      description= "Este é um blog"
     [[languages.pt.menu.main]]
         name = "Blog"
         url = "blog"
@@ -26,10 +27,10 @@ DefaultContentLanguageInSubdir = false
         url = "page/sobre/"
         weight = 2
 
-    [[languages.pt.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
+    # [[languages.pt.menu.main]]
+    #     name = "Tags"
+    #     url = "tags"
+    #     weight = 3
 
     # [[languages.pt.menu.main]]
     #     name = "Posts"
@@ -63,7 +64,7 @@ DefaultContentLanguageInSubdir = false
 
   # Custom copyright - optional
   copyright = "Copyright © 2024 - Life Study Lab · All rights reserved"
-  favicon = "/favicon.svg"
+  favicon = "logos/favicon.ico"
 
   # Color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors
