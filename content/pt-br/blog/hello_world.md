@@ -1,8 +1,9 @@
 ---
 title: "Hello_world"
 date: 2024-06-19T11:54:26-03:00
-author: "Sullyvan Moura"
+author: "Life Study Life"
 description: "Primeiro blog do site!"
+toc: true
 tags: ['hello', 'blog']
 ---
 

@@ -66,7 +66,7 @@ DefaultContentLanguageInSubdir = false
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2024 - Life Study Lab · All rights reserved"
+  copyright = "Copyright © 2024 - Life Study Lab · Todos os direitos Reservados. <a  href='/page/termos'><u>Termos de Serviço e Privacidade</u></a>"
   favicon = "logos/favicon.ico"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -83,11 +83,11 @@ DefaultContentLanguageInSubdir = false
 
   # To hide "Other languages" option if the post is available in multiple languages
   # Can be used at site level or page level
-  hideOtherLanguages = false
+  hideOtherLanguages = true
 
   # Add support for Table of contents
   # Can be added to a page level also in markdown frontmatter
-  toc = true
+  toc = false
 
   # Hides the thumbnail in post view
   # Thumbnails in home and blog pages will still be shown

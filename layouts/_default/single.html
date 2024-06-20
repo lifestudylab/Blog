@@ -61,15 +61,10 @@
     {{ end }}
 
     {{ if (or .Site.Params.toc .Params.toc) }}
-      {{ if (in .File.Path "blog/") }}
-        {{- partial "toc.html" . -}}
-      {{ end }}
+      {{- partial "toc.html" . -}}
     {{ end }}
 
     {{ .Content }}
   </article>
-
-  {{- partial "comments.html" . -}}
-
   {{- partial "social.html" . -}}
 {{ end }}
