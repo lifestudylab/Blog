@@ -5,7 +5,7 @@ author: "Life Study Life"
 description: "Entenda como emoções influenciam decisões financeiras e descubra estratégias para tomar decisões mais racionais e alcançar sucesso financeiro a longo prazo."
 toc: true
 tags: ['Finanças', 'Emoções', 'Investimentos', 'Planejamento', 'Educação', 'Riscos', 'Consultoria', 'Controle', 'Gestão', 'Psicologia', 'Mercado', 'Estratégias', 'Diversificação', 'Comportamento', 'Pessoais']
-thumbnail: "blogs_thumbs/2024/06/como-emocoes-afetam-decisoes-financeiras.jpg"
+thumbnail: "/blogs_thumbs/2024/06/como-emocoes-afetam-decisoes-financeiras.jpg"
 ---
 
 As emoções desempenham um papel crucial em nossas vidas, influenciando nossas ações e decisões diárias. No contexto das finanças pessoais e investimentos, o impacto das emoções pode ser ainda mais pronunciado. Neste texto, exploraremos como as emoções podem afetar decisões financeiras, os riscos associados e estratégias para mitigar esses efeitos.
