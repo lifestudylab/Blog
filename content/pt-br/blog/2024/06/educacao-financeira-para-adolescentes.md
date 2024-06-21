@@ -7,6 +7,7 @@ toc: true
 tags: ["Educação", "Financeira", "Adolescentes", "Orçamento", "Poupança", "Investimento", "Crédito", "Dívida", "Trabalho", "Empreendedorismo", "Recursos", "Aplicativos", "Livros", "Cursos", "Jogos"]
 thumbnail: "/blogs_thumbs/2024/06/educacao-financeira-para-adolescentes.jpg"
 hidePageThumbnail: false
+images: ['educacao-financeira-para-adolescentes.jpg']
 ---
 
 A educação financeira é um componente essencial para o desenvolvimento de habilidades de gestão de dinheiro e independência financeira ao longo da vida. Ensinar adolescentes sobre finanças não só prepara-os para uma vida adulta mais segura e estável, mas também os capacita a tomar decisões financeiras inteligentes desde cedo. Este texto explora a importância da educação financeira para adolescentes e oferece orientações sobre como abordar esse tema com eficácia.

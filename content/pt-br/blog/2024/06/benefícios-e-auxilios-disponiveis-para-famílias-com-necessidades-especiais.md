@@ -1,11 +1,12 @@
 ---
-title: "Descubar os Benefícios e Auxílios Disponíveis para Famílias com Necessidades Especiais"
+title: "Benefícios e Auxílios Disponíveis para Famílias com Necessidades Especiais"
 date: 2024-06-02T16:05:17-03:00
 author: "Life Study Life"
 description: "Explore os benefícios e auxílios disponíveis para famílias com necessidades especiais, incluindo benefícios governamentais, programas de saúde, educação inclusiva e transporte."
 toc: true
 tags: ["Benefícios", "Auxílios", "Necessidades Especiais", "Famílias", "Deficiência", "Saúde", "Educação", "Inclusão", "Governo", "Transporte", "Programas Sociais", "Apoio", "Isenções Fiscais", "ONGs", "APAEs"]
-thumbnail: "/blogs_thumbs/2024/06/descubar-os-benefícios-e-auxilios-disponiveis-para-famílias-com-necessidades-especiais.jpg"
+thumbnail: "/blogs_thumbs/2024/06/benefícios-e-auxilios-disponiveis-para-famílias-com-necessidades-especiais-thumbnail.jpg"
+images: ['benefícios-e-auxilios-disponiveis-para-famílias-com-necessidades-especiais-thumbnail.jpg']
 ---
 
 As famílias que têm membros com necessidades especiais enfrentam desafios únicos e, muitas vezes, precisam de apoio adicional para garantir que todos recebam os cuidados e recursos necessários. Felizmente, existem diversos benefícios e auxílios disponíveis para ajudar essas famílias a lidar com suas necessidades específicas. Este texto explora algumas das principais formas de apoio, fornecendo uma visão geral dos recursos disponíveis.
