@@ -63,7 +63,7 @@ DefaultContentLanguageInSubdir = false
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2024 - Life Study Lab · Todos os direitos Reservados. <a  href='/page/termos'><u>Termos de Serviço e Privacidade</u></a>"
+  copyright = "Copyright © 2024 - Life Study Lab · Todos os direitos Reservados. <a title='Termos de Serviço e Privacidade' href='/page/termos'><u>Termos de Serviço e Privacidade</u></a>"
   favicon = "/logos/favicon.ico"
 
   # Color for the intro details and social links block, not applicable for dark mode

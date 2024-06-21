@@ -23,6 +23,8 @@
   translation: "minutos"
 - id: words
   translation: "palavras"
+- id: homepage
+  translation: "Página inicial"
 
 # Date
 - id: January
