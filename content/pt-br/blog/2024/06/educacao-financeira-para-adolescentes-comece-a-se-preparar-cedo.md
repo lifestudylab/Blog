@@ -1,5 +1,5 @@
 ---
-title: "Educação Financeira para Adolescentes: Começe a se preparar cedo!"
+title: "Educação Financeira para Adolescentes"
 date: 2024-06-03T16:05:17-03:00
 author: "Life Study Life"
 description: "Ensine adolescentes sobre orçamento, poupança, investimento e crédito para garantir um futuro financeiro estável e responsável."
