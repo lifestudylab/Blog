@@ -5,7 +5,7 @@ author: "Life Study Life"
 description: "Ensine adolescentes sobre orçamento, poupança, investimento e crédito para garantir um futuro financeiro estável e responsável."
 toc: true
 tags: ["Educação", "Financeira", "Adolescentes", "Orçamento", "Poupança", "Investimento", "Crédito", "Dívida", "Trabalho", "Empreendedorismo", "Recursos", "Aplicativos", "Livros", "Cursos", "Jogos"]
-thumbnail: "/blogs_thumbs/2024/06/educacao-financeira-para-adolescentes-comece-a-se-preparar-cedo.jpg"
+thumbnail: "/blogs_thumbs/2024/06/educacao-financeira-para-adolescentes.jpg"
 hidePageThumbnail: false
 ---
 
