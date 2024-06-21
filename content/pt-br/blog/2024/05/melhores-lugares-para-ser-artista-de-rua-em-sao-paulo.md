@@ -5,8 +5,8 @@ author: "Life Study Lab"
 description: "Descubra os melhores lugares para ser artista de rua em São Paulo. Saiba onde se apresentar, atrair mais público e maximizar seus ganhos com performances únicas."
 toc: true
 tags: ["Artista de Rua", "São Paulo", "Performances", "Avenida Paulista", "Parque Ibirapuera", "Centro Histórico", "Vila Madalena", "Rua Augusta", "Cultura", "Entretenimento", "Turismo", "Eventos", "Público", "Ganhos", "Licenças"]
-thumbnail: "/blogs_thumbs/2024/06/melhores-lugares-para-ser-artista-de-rua-em-sao-paulo.jpg"
-images: ['blogs_thumbs/2024/06/melhores-lugares-para-ser-artista-de-rua-em-sao-paulo.jpg']
+thumbnail: "/blogs_thumbs/2024/05/melhores-lugares-para-ser-artista-de-rua-em-sao-paulo.jpg"
+images: ['blogs_thumbs/2024/05/melhores-lugares-para-ser-artista-de-rua-em-sao-paulo.jpg']
 ---
 
 São Paulo, a maior metrópole do Brasil, é um caldeirão cultural vibrante e diversificado. Para artistas de rua, a cidade oferece inúmeras oportunidades para exibir seu talento e ganhar dinheiro. Neste artigo, exploraremos os melhores lugares para ser artista de rua em São Paulo, considerando fatores como fluxo de pessoas, receptividade do público e acessibilidade.

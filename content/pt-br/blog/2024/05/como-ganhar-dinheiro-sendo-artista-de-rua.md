@@ -5,8 +5,8 @@ author: "Life Study Lab"
 description: "Descubra como ganhar dinheiro como artista de rua com dicas sobre escolha de local, maximização de ganhos, marketing, e desenvolvimento contínuo das suas habilidades."
 toc: true
 tags: ["Artista", "Rua", "Ganhar Dinheiro", "Performances", "Marketing", "Renda", "Shows", "Talento", "Doações", "Produtos", "Eventos", "Redes Sociais", "Desenvolvimento", "Permissões", "Localização"]
-thumbnail: "/blogs_thumbs/2024/06/como-ganhar-dinheiro-sendo-artista-de-rua.jpg"
-images: ['/blogs_thumbs/2024/06/como-ganhar-dinheiro-sendo-artista-de-rua.jpg']
+thumbnail: "/blogs_thumbs/2024/05/como-ganhar-dinheiro-sendo-artista-de-rua.jpg"
+images: ['/blogs_thumbs/2024/05/como-ganhar-dinheiro-sendo-artista-de-rua.jpg']
 ---
 
 Ser um artista de rua é uma profissão que combina paixão, talento e a oportunidade de interagir diretamente com o público. No entanto, para muitos artistas, transformar essa paixão em uma fonte de renda sustentável pode ser um desafio. Este artigo oferece dicas práticas e estratégias sobre como ganhar dinheiro sendo um artista de rua, ajudando você a maximizar seus ganhos enquanto faz o que ama.

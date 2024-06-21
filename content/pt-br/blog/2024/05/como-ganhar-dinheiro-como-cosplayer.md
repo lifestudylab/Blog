@@ -5,8 +5,8 @@ author: "Life Study Lab"
 description: "Descubra como ganhar dinheiro como cosplayer com dicas sobre competições, criação de conteúdo, venda de produtos, patrocínios, e workshops. Transforme sua paixão em lucro!"
 toc: true
 tags: ["Cosplay", "Ganhar Dinheiro", "Competição", "Streaming", "YouTube", "Twitch", "TikTok", "Instagram", "Facebook", "Comissões", "Produtos Derivados", "Patrocínios", "Eventos", "Workshops", "Aulas"]
-thumbnail: "/blogs_thumbs/2024/06/como-ganhar-dinheiro-como-cosplayer.jpg"
-images: ['/blogs_thumbs/2024/06/como-ganhar-dinheiro-como-cosplayer.jpg']
+thumbnail: "/blogs_thumbs/2024/05/como-ganhar-dinheiro-como-cosplayer.jpg"
+images: ['/blogs_thumbs/2024/05/como-ganhar-dinheiro-como-cosplayer.jpg']
 ---
 
 O cosplay, uma prática que envolve se vestir como personagens de ficção, seja de animes, filmes, séries ou videogames, tornou-se uma forma popular de expressão artística em todo o mundo. Mais do que um hobby, o cosplay pode ser uma fonte de renda lucrativa para aqueles que se dedicam seriamente à prática. Este artigo explora diversas maneiras de ganhar dinheiro como cosplayer, desde competições até patrocínios e vendas de produtos.
