@@ -10,6 +10,21 @@
   <title>
   {{ if not .IsHome }}{{ .Title }} - {{ end }}{{ site.Title }}
   </title>
+
+  {{if .IsHome }} 
+  
+  <script type="application/ld+json">
+    {
+        "@context" : "https://schema.org",
+        "@type" : "WebSite",
+        "url": "https://lifestudylab.github.io",
+        "name": {{ .Title }},
+        "description": {{.Site.Params.Description}}
+    }
+  </script>
+
+  {{end}}
+
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}" />
   {{- if .Keywords }}
   <meta name="keywords" content="{{ delimit .Keywords "," }}" />
